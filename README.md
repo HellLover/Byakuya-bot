@@ -4,32 +4,32 @@ Byakuya is a kind of tutorial bot written in [TypeScript](https://www.typescript
 The main idea of this project is to create a Discord bot and a website/dashboard with TypeScript and NestJS for those who want to learn coding such things.
 
 ## Getting Started
-`#1` Make sure you have [Node.js](https://nodejs.org/en/) installed.
-`#2` Fork this repository and run it on your machine:
-  ↳ `#2.1` If you are using `npm`, run `npm install` or `yarn add` if using `yarn`.;
-  ↳ `#2.2` Run `npm run start` to trigger the script placed in `package.json` and to start the project.
-`#3` Configure your own `.env` file:
-  ↳ `#3.1` Change the `.env.example` file to `.env`;
-  ↳ `#3.2` Change `OWNER` to your own Discord ID;
-  ↳ `#3.3` Change `BYAKUYA_TOKEN` to your bot's token. You can change the variable name if you wish to;
-  ↳ `#3.4` Change `BYAKUYA_ID`  to your bot's ID. You can change the variable name if you wish to;
-  ↳ `#3.5` Change `DEV_MODE` to `false` if your bot is public and if you want the slash-commands to be registered globally.
+`#1` Make sure you have [Node.js](https://nodejs.org/en/) installed.\n
+`#2` Fork this repository and run it on your machine:\n
+  ↳ `#2.1` If you are using `npm`, run `npm install` or `yarn add` if using `yarn`.;\n
+  ↳ `#2.2` Run `npm run start` to trigger the script placed in `package.json` and to start the project.\n
+`#3` Configure your own `.env` file:\n
+  ↳ `#3.1` Change the `.env.example` file to `.env`;\n
+  ↳ `#3.2` Change `OWNER` to your own Discord ID;\n
+  ↳ `#3.3` Change `BYAKUYA_TOKEN` to your bot's token. You can change the variable name if you wish to;\n
+  ↳ `#3.4` Change `BYAKUYA_ID`  to your bot's ID. You can change the variable name if you wish to;\n
+  ↳ `#3.5` Change `DEV_MODE` to `false` if your bot is public and if you want the slash-commands to be registered globally.\n\n
 
-Please use this repository if you have at least a little knowledge of how to create bots and how to code.
+Please use this repository if you have at least a little knowledge of how to create bots and how to code.\n\n
 
 
-If you see this on your console - congratulations, you've done everything right and your bot is working!
-![result](https://github.com/HellLover/Byakuya/blob/master/screenshots/image.jpg?raw=true)
+If you see this on your console - congratulations, you've done everything right and your bot is working!\n
+![result](https://github.com/HellLover/Byakuya/blob/master/screenshots/image.jpg?raw=true)\n\n
 
 
 ## GhostyBot
-Thanks to Casper's GhostyBot for the handlers and other stuff.
+Thanks to Casper's GhostyBot for the handlers and other stuff.\n\n
 
 
 ### Future Ideas
-`-` Add website/dashboard;
-`-` Add more useful commands;
-`-` Add language system.
+`-` Add website/dashboard;\n
+`-` Add more useful commands;\n
+`-` Add language system.\n\n\n
 
 
 
