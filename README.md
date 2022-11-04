@@ -19,7 +19,7 @@ Please use this repository if you have at least a little knowledge of how to cre
 
 
 If you see this on your console - congratulations, you've done everything right and your bot is working!<br>
-![result](https://github.com/HellLover/Byakuya/blob/master/screenshots/image.png?raw=true)<br><br>
+![result](https://cdn.discordapp.com/attachments/813400207638790154/1038173716275810444/image.png)<br><br>
 
 
 ## GhostyBot
